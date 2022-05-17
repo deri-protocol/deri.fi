@@ -1,2 +1,2 @@
 # deri.fi
-deri finance
+deri fi
