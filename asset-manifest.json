@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdc61da7.css",
-    "main.js": "/static/js/main.1603ca1c.js",
+    "main.css": "/static/css/main.6301de79.css",
+    "main.js": "/static/js/main.f4b7980f.js",
     "static/js/108.7df694a2.chunk.js": "/static/js/108.7df694a2.chunk.js",
     "static/js/611.256e4e2e.chunk.js": "/static/js/611.256e4e2e.chunk.js",
     "static/js/478.11d57c31.chunk.js": "/static/js/478.11d57c31.chunk.js",
@@ -185,7 +185,7 @@
     "static/media/bet-now.svg": "/static/media/bet-now.f9d878cb7c6980b11f4a.svg"
   },
   "entrypoints": [
-    "static/css/main.cdc61da7.css",
-    "static/js/main.1603ca1c.js"
+    "static/css/main.6301de79.css",
+    "static/js/main.f4b7980f.js"
   ]
 }
